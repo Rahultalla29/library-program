@@ -1,0 +1,29 @@
+user: No books in system.
+
+user: 17 books successfully added.
+
+user: Bob Kane
+Douglas Adams
+Harper Lee
+Homer
+J.K. Rowling
+J.R.R. Tolkien
+Jamie Lee Curtis
+T.S. Eliot
+Virgil
+W.E. Johns
+
+user: No books have been added to the system.
+
+user: Bob Kane
+Douglas Adams
+Harper Lee
+Homer
+J.K. Rowling
+J.R.R. Tolkien
+Jamie Lee Curtis
+T.S. Eliot
+Virgil
+W.E. Johns
+
+user: Ending Library process.

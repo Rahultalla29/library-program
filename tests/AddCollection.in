@@ -1,0 +1,4 @@
+ADD COLLECTION noFile.csv
+ADD COLLECTION sample1.csv
+ADD COLLECTION sample1.csv
+EXIT

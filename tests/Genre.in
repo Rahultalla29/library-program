@@ -1,0 +1,7 @@
+GENRE Fantasy
+ADD COLLECTION sample1.csv
+LIST AVAILABLE
+GENRE Fantasy
+GENRE Ice cream
+GENRE Historical Fiction
+EXIT

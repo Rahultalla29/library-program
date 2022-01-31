@@ -1,0 +1,9 @@
+ADD MEMBER Jeff
+ADD MEMBER Chris Jones
+ADD MEMBER Jeff Chris Jones Jr.
+MEMBER 100000
+MEMBER 100001
+MEMBER 100002
+add member jacob
+member 100003
+EXIT

@@ -1,0 +1,7 @@
+ADD BOOK sample1.csv 111111
+ADD BOOK sample1.csv 111112
+ADD BOOK ThisFileDoesNotExist.csv 111111
+ADD BOOK sample1.csv 112681
+ADD BOOK sample1.csv 111111
+add book sample1.csv 111112
+EXIT

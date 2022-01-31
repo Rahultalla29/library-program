@@ -1,0 +1,4 @@
+SAVE COLLECTION outfile.csv
+ADD COLLECTION sample1.csv
+SAVE COLLECTION outfile.csv
+EXIT
